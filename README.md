@@ -20,12 +20,7 @@ Models and their final performance was;
 
 #### Project Goal
 
-The goal of this project is to predict potential Exoplanets that are earth-size and smaller within the habitable zone of their respective sun using a variety of classification models such as;
-    * Logisitc Regression
-    * KNN
-    * Decision Tree
-    * Random Foresting
-    * SVM
+The goal of this project is to predict potential Exoplanets that are earth-size and smaller within the habitable zone of their respective sun using a variety of classification models.
 
 #### Data Source
 
