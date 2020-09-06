@@ -6,7 +6,7 @@ DROP # COLUMN koi_fpflag_nt:  Not Transit-Like False Positive Flag
 DROP # COLUMN koi_fpflag_ss:  Stellar Eclipse False Positive Flag
 DROP # COLUMN koi_fpflag_co:  Centroid Offset False Positive Flag
 DROP # COLUMN koi_fpflag_ec:  Ephemeris Match Indicates Contamination False Positive Flag
-
+DROP # COLUMN koi_tce_delivname: TCE Delivery
 
 $ KEEPING
 # COLUMN kepid:          KepID
@@ -38,7 +38,6 @@ $ KEEPING
 # COLUMN koi_insol_err2: Insolation Flux Lower Unc. [Earth flux]
 # COLUMN koi_model_snr:  Transit Signal-to-Noise
 # COLUMN koi_tce_plnt_num: TCE Planet Number
-# COLUMN koi_tce_delivname: TCE Delivery
 # COLUMN koi_steff:      Stellar Effective Temperature [K]
 # COLUMN koi_steff_err1: Stellar Effective Temperature Upper Unc. [K]
 # COLUMN koi_steff_err2: Stellar Effective Temperature Lower Unc. [K]
