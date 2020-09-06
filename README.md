@@ -3,6 +3,7 @@
 <p align="center">
   <img src="Pictures/milky_way_starry_sky_galaxy_119519_1920x1080.jpg">
   <img src="https://github.com/HongPhuMagic/ML-Project-3-Exoplanets/tree/master/Pictures/milky_way_starry_sky_galaxy_119519_1920x1080.jpg">
+<<<<<<< HEAD
 <p align="center">
 
 
@@ -36,3 +37,7 @@ This dataset has the most accurate and updated dispositions and stellar and plan
 #### Data Description
 
 Please view [Caltech documentation](https://exoplanetarchive.ipac.caltech.edu/applications/DocSet/index.html?doctree=/docs/docmenu.xml&startdoc=1) page to understand what each column/feature entails. 
+=======
+
+<p align="center">
+>>>>>>> f4d45445b7f366f94dcff5ce85d18fe12b6276c6
