@@ -7,9 +7,12 @@
 
 #### Conclusion
 
-I used my best two models to classify the candidates!
+I used my best two models to classify the 2418 candidates!
+![](Pictures/counttar.JPG)
 * SVC predicted there would be 994 potential earth-sized and smaller within the habitable zone!
 * Random Forest prediced there would be 829 potential earthh-sized and smaller within the habitable zone! 
+
+![](Pictures/countcan.JPG)
 
 Models and their final performance was;
 * Logistic Regression (87%)
