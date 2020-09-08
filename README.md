@@ -1,13 +1,13 @@
 # ML-Project-4-Exoplanets
 
-<p align="center">
-  <img src="Pictures/milky_way_starry_sky_galaxy_119519_1920x1080.jpg">
-<p align="center">
 
+#### Project Goal
+
+The goal of this project is to predict potential exoplanets that are earth-size and smaller within the habitable zone of their respective sun using a variety of classification models.
 
 #### Conclusion
 
-I used my best two models to classify the 2418 candidates!
+After extracting 2418 candiates, I used my best two models to classify the 2418 candidates!
 * SVC predicted there would be 994 potential earth-sized and smaller within the habitable zone!
 * Random Forest prediced there would be 829 potential earthh-sized and smaller within the habitable zone! 
 
@@ -20,9 +20,7 @@ Models and their final performance was;
 * Random Forest (89%)
 * SVM (90%)
 
-#### Project Goal
 
-The goal of this project is to predict potential Exoplanets that are earth-size and smaller within the habitable zone of their respective sun using a variety of classification models.
 
 #### Data Source
 
