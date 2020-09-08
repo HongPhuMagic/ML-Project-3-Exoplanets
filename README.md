@@ -7,7 +7,7 @@ The goal of this project was to predict potential exoplanets that are earth-size
 
 #### Conclusion
 
-After extracting 2418 candidates, I used my best two models to classify the 2418 candidates.
+After extracting 2418 candidates, I used my best two models to classify them.
 * SVC predicted there would be 994 potential earth-sized and smaller exoplanets within the habitable zone
 * Random Forest predicted there would be 829 potential earth-sized and smaller exoplanets within the habitable zone
 
