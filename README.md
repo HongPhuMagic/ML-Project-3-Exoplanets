@@ -7,7 +7,7 @@ The goal of this project was to predict potential exoplanets that are earth-size
 
 #### Conclusion
 
-After extracting 2418 candiates, I used my best two models to classify the 2418 candidates.
+After extracting 2418 candidates, I used my best two models to classify the 2418 candidates.
 * SVC predicted there would be 994 potential earth-sized and smaller exoplanets within the habitable zone
 * Random Forest predicted there would be 829 potential earth-sized and smaller exoplanets within the habitable zone
 
@@ -30,5 +30,5 @@ This dataset has the most accurate and updated dispositions, stellar, and planet
 
 #### Data Description
 
-Please visit [Caltech documentation](https://exoplanetarchive.ipac.caltech.edu/applications/DocSet/index.html?doctree=/docs/docmenu.xml&startdoc=1) to understand what each column/feature entails. 
+Please visit the [Caltech documentation](https://exoplanetarchive.ipac.caltech.edu/applications/DocSet/index.html?doctree=/docs/docmenu.xml&startdoc=1) to understand what each column/feature entails. 
 
