@@ -13,6 +13,8 @@ After extracting 2418 candiates, I used my best two models to classify the 2418 
 
 ![](Pictures/countcan.JPG)
 
+If I was part of NASA's team that is involved in the Kepler's mission, I would attempt to validate the candidates my models predicted. 
+
 Models and their final performance was;
 * Logistic Regression (87%)
 * KNN (86%)
