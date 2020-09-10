@@ -7,6 +7,8 @@ The goal of this project was to predict potential exoplanets that are earth-size
 
 #### Conclusion
 
+Under normal circumstances I would only report one model, whether it be an ensemble of models or one classification model but I was curious on what my best two models would predict and how differnet they were when it comes to predicting unseen candidate data.
+
 After extracting 2418 candidates, I used my best two models to classify them.
 * SVC predicted there would be 994 potential earth-sized and smaller exoplanets within the habitable zone
 * Random Forest predicted there would be 829 potential earth-sized and smaller exoplanets within the habitable zone
@@ -15,7 +17,9 @@ After extracting 2418 candidates, I used my best two models to classify them.
 
 If I was part of NASA's team that is involved in the Kepler's mission, I would attempt to validate the candidates my models predicted. 
 
-Models and their final performance was;
+# Final thoughts 
+
+The models and their final **recall** performance was;
 * Logistic Regression (87%)
 * KNN (86%)
 * Decision Tree (84%)
