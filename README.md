@@ -10,8 +10,8 @@ The goal of this project was to predict potential exoplanets that are earth-size
 Under normal circumstances I would only report one model, whether it be an ensemble of models or one classification model but I was curious on what my best two models would predict and how differnet they were when it comes to predicting unseen candidate data.
 
 After extracting 2418 candidates, I used my best two models to classify them.
-* SVC predicted there would be 994 potential earth-sized and smaller exoplanets within the habitable zone
-* Random Forest predicted there would be 829 potential earth-sized and smaller exoplanets within the habitable zone
+* SVC predicted there would be 910 potential earth-sized and smaller exoplanets within the habitable zone
+* Random Forest predicted there would be 818 potential earth-sized and smaller exoplanets within the habitable zone
 
 ![](Pictures/countcan.JPG)
 
