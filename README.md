@@ -34,5 +34,5 @@ This dataset has the most accurate and updated dispositions, stellar, and planet
 
 #### Data Description
 
-Please visit the [Caltech documentation](https://exoplanetarchive.ipac.caltech.edu/applications/DocSet/index.html?doctree=/docs/docmenu.xml&startdoc=1) to understand what each column/feature entails. 
+Please visit the [Caltech documentation](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html) to understand what each column/feature entails. 
 
