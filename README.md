@@ -20,11 +20,11 @@ If I was part of NASA's team that is involved in the Kepler's mission, I would a
 # Final thoughts 
 
 The models and their final **recall** performance was;
-* Logistic Regression (87%)
-* KNN (86%)
+* Logistic Regression (86%)
+* KNN (89%)
 * Decision Tree (84%)
-* Random Forest (89%)
-* SVM (90%)
+* Random Forest (90%)
+* SVM (91%)
 
 
 #### Data Source
