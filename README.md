@@ -36,3 +36,20 @@ This dataset has the most accurate and updated dispositions, stellar, and planet
 
 Please visit the [Caltech documentation](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html) to understand what each column/feature entails. 
 
+#### Metrics
+
+Why recall out of other classification metrics (F1, Accuracy, Precision)?? 
+
+The objective of this project was to detect potential exoplanets from the list of canadidates. The assumption I am going to make, if I was the leader of this project, is that I want to make sure to **capture all potenial planets** (to be on the safe side) at the cost of having false positive (predicting positive but was actually negative) which affects cost, time, and energy to investigate the candidates to lower the false negative. 
+
+Accuracy is often good to use if the label class is balance. This data set that was used to train the model did not have a balanced label (2:1). 
+
+F1 is the harmonic mean of precision and recall. It is oftenly used for the punishing extreme difference between precision and recall. 
+
+![](Pictures/precision.PNG)
+
+By taking a look at precision, we can see that the metric is influence by false positive.  With that being said, I would use precision if the condition for the objective was that we care about the resourses spent instead of capturing all potential candidates (lowering of false negative). 
+
+![](Pictures/recall.PNG) 
+
+Recall is affected by the false negative. We want to lower false negative to avoid the high cost associated with the consequences (negatively impacting the objective).
