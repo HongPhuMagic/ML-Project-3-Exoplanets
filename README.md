@@ -48,7 +48,7 @@ F1 is the harmonic mean of precision and recall. It is oftenly used for the puni
 
 ![](Pictures/precision.PNG)
 
-By taking a look at precision, we can see that the metric is influence by false positive.  With that being said, I would use precision if the condition for the objective was that we care about the resourses spent instead of capturing all potential candidates (lowering of false negative). 
+By taking a look at precision, we can see that the metric is influence by false positive.  With that being said, I would use precision if the condition for the objective was that we care about the resources spent instead of capturing all potential candidates (lowering of false negative). 
 
 ![](Pictures/recall.PNG) 
 
